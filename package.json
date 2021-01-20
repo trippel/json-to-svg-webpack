@@ -1,0 +1,25 @@
+{
+  "name": "@trippel/svg-json-loader",
+  "version": "0.0.1",
+  "description": "Webpack Loader to inject SVG definitions from a JSON file into svg-sprite-loader",
+  "main": "./lib/json2svg.js",
+  "author": "Tristan Fischer-Rippel <https://github.com/trippel>",
+  "keywords": [
+    "json",
+    "svg",
+    "sprite",
+    "webpack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trippel/json-to-svg-webpack"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "webpack": "^5.0.0"
+  },
+  "peerDependencies": {},
+  "private": false
+}
