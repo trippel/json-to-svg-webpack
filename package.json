@@ -1,5 +1,5 @@
 {
-  "name": "@tripppel/json-to-svg-webpack",
+  "name": "@trippel/json-to-svg-webpack",
   "version": "0.0.1",
   "description": "Webpack plugin to generate SVG files from JSON file of a fixed schema.",
   "main": "./lib/json2svg.js",
